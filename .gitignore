@@ -1,0 +1,5 @@
+*.npy
+*.ipynb_checkpoints
+*.ipynb
+*.pth
+*.csv
